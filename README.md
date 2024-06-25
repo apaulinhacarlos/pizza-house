@@ -1,6 +1,6 @@
-# Desafio Extra: Docker
+# Desafios Extra
 
-# Objetivo do Desafio
+# Objetivo dos Desafios
 
 Este desafio foi criado e implementado para um grupo de pessoas estudantes iniciando seus estudos em Back-end. 
 Seu objetivo é aprimorar a compreensão e a abstração sobre o uso do Docker em ambientes de desenvolvimento.
@@ -21,14 +21,14 @@ Além disso, no módulo de Back-end, as pessoas estudantes começam a se candida
 
 Criar um desafio extra para cada conteúdo, baseado em processos seletivos, onde a pessoa possa (i) treinar os conhecimentos adquiridos na seção, (ii) se preparar para os desafios técnicos dos processos seletivos e (iii) ocupar o tempo livre após a entrega dos projetos com desafios práticos.
 
-## Premissas para Cada Desafio
+## Premissas para cada Desafio
 
 - **Rápido**: Não deve concorrer com o tempo de consumo de conteúdo ou realização de projeto.
 - **Desafiador**: Deve fazer a pessoa pensar de forma lógica e focada em resolução de problemas.
 - **Real Life**: Deve aproximar a pessoa estudante da realidade de uma pessoa desenvolvedora, com storytelling baseado em casos de uso reais.
 - **Carreira**: Deve ser focado em carreira, trazendo abordagens comuns do conteúdo da seção em desafios técnicos de processos seletivos.
 
-## Cada Desafio Deve Possuir
+## Cada Desafio deve Possuir
 
 - Um caso de uso.
 - Um código base.
@@ -48,7 +48,7 @@ Criar um desafio extra para cada conteúdo, baseado em processos seletivos, onde
   - Métrica complementar: analisar a satisfação geral das pessoas estudantes nas seções em que fizeram o desafio.
 
 
-# Implementação do Desafio
+# Implementação do Primeiro Desafio - Docker
 
 O desafio foi enviado via formulário do Google Forms e, em seguida, realizamos um momento síncrono com as pessoas estudantes para explicar cada pergunta. A ideia principal era simular um desafio técnico de um processo seletivo.
 
@@ -155,5 +155,5 @@ Forms de avaliação ao final da última etapa do desafio (momento síncrono de 
 
 ## Feedback Principal
 
-"Muito bom o desafio. Na maioria dos processos seletivos temos que fazer testes para comprovar determinada habilidade e os desafios melhoram a confiança e preparo técnico para futuras entrevistas e processos seletivos."
+*"Muito bom o desafio. Na maioria dos processos seletivos temos que fazer testes para comprovar determinada habilidade e os desafios melhoram a confiança e preparo técnico para futuras entrevistas e processos seletivos."*
 
