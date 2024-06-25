@@ -63,10 +63,9 @@ As pessoas estudantes devem utilizar o Docker para rodar a aplicação e corrigi
 - Trata-se de uma simulação baseada em desafios técnicos comuns em processos seletivos.
 - O objetivo é praticar e consolidar os conhecimentos adquiridos nesta seção.
 
-[Não existe mão santa, existe treinamento. Sem treinamento, ninguém seria o que foi. Schmidt, Oscar.](https://www.youtube.com/watch?v=A0y03U4jqqQ)
+*Não existe mão santa, existe treinamento. Sem treinamento, ninguém seria o que foi. Schmidt, Oscar.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A0y03U4jqqQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Assista o vídeo](https://img.youtube.com/vi/A0y03U4jqqQ/0.jpg)](https://www.youtube.com/watch?v=A0y03U4jqqQ)
 
 ## Desafio
 
